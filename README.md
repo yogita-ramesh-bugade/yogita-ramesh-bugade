@@ -5,7 +5,7 @@
   - [Security Map SIEM - Azure Sentinel Setup with Cloud-Based Honeypot](https://github.com/yogita-ramesh-bugade/World-Map-SIEM-Azure-Sentinel)
   - [Active Directory Dynamics : Server Administration](https://github.com/yogita-ramesh-bugade/Active-Directory-Dynamics-Server-Administration)
   - [File Integrity Monitor - PCI DSS](https://github.com/yogita-ramesh-bugade/File-Integrity-Monitor-PCI-DSS)
-  - [Secured Health Care Information Exchange on Cloud using advanced cryptographic techniques(ECDH, AES and SHA-256)](https://github.com/yogita-ramesh-bugade/Secured-Secured-Health-Care-Information-Exchange-on-Cloud-Using-AES-and-SHA-3-Algorithms)
+  - [Secured Health Care Information Exchange on Cloud using advanced cryptographic techniques(ECDH, AES and SHA-256)](https://github.com/yogita-ramesh-bugade/Secured-Health-Care-Information-Exchange-on-Cloud-using-advanced-cryptographic-techniques)
   - [Cryptography Ciphers Implementation in JavaScript](https://github.com/yogita-ramesh-bugade/Cryptography-Ciphers-Implementation-in-JavaScript)
   - [Vulnerability Management with Nessus](https://github.com/yogita-ramesh-bugade/Vulnerability-Management-with-Nessus)
   - [Next-Gen Firewall with Intrusion Detection System](https://github.com/yogita-ramesh-bugade/Next-Gen-Firewall-with-Intrusion-Detection-System)
